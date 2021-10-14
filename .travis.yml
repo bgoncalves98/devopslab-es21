@@ -10,4 +10,4 @@ python:
 
 # Instalação de Módulos que são necessários para a Aplicação.                                                                                                                                            
 install:                                                                                                                                                                                                 
-  - pip install flask pytest
+  - pip install flask pytest 
